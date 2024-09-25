@@ -1,0 +1,34 @@
+﻿Questions for TCG: 
+1. What am I good at?
+2. How do I perform?
+3. What do I value?
+4. What contribution can be expected from me on this project?
+
+
+
+
+Grant:
+1. I am good at organizational code, loops, and creativity. Outside of coding, I excel at people skills, sports, and having fun. 
+2. I perform well under pressure, and alright in other situations.
+3. I value honesty and communication, I want everything that needs to be done communicated well and efficiently. 
+4. The contribution I plan on making to this project is being able to facilitate what we need. I want to be able to help where people need it and always be able to give an objective overview of where we are and where we need to go. I also plan to help with the coding and story generation. 
+
+
+Chibuikem:
+1. I am good at tracking code and finding the problem in the code. I am also good at testing /playing games
+2. I would say I perform on a level above average in most thing but perform excellently in things I enjoy doing
+3. I value teamwork and friendship and our ability as a team to carry out the given task
+4. I would do my best to contribute to the team by carrying out the activity given to me 
+
+
+
+
+
+
+
+
+Terrence:
+1. Problem solving and thinking. I’m good with hardware repairs and technical knowledge about issues.
+2. I perform well when I’m by myself or when it’s quiet. If not, I like small groups so that we don’t have many people talking over each other. I perform well when introduced to hard challenges and like to use my resources to figure out said challenge.
+3. I value experience and wisdom. I think teaching is great, but hands-on experience seems to be much better than me just learning. I value applying skills I’ve learned or adapting to the environment to add new skills.
+4. I would like to learn more about AI and LLM’s and hope to work on it within the project.
